@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    transition: background 1s ease;
+}
+
+header {
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+select, button {
+    padding: 10px;
+    margin: 10px;
+    font-size: 1rem;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+
+blockquote {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    font-style: italic;
+}
+
+footer {
+    margin-top: 40px;
+    font-size: 0.8rem;
+    opacity: 0.8;
+}
